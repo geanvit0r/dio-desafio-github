@@ -3,3 +3,4 @@ Cursos feitos 2025
 1- Janeiro
 
 1.2 Introdução ao git e ao github
+1.2 O Caminho Para a Certificação CTFL
